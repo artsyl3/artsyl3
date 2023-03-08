@@ -21,7 +21,7 @@
 - ⚡ I have traveled to over 10 countries and hope to visit many more in the future!
 ---
 
-###Skills
+### Skills
 
 - HTML
 - CSS
@@ -31,9 +31,9 @@
 - Node.js
 - AWS
 ---
-###Stats
+### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?artsyl3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=artsyl3)](https://git.io/streak-stats)
 
 
 <!--
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - ⚡ I have traveled to over 10 countries and hope to visit many more in the future!
 ---
 
-###Skills
+### Skills
 
 HTML
 CSS
