@@ -1,8 +1,5 @@
 ### 👋 Hi there! I'm passionate about creating things that come to life on the internet.
 ---
-- 🌱 I'm always striving to learn and develop new skills.
-
-- ⏰ Time flies when I'm coding, crafting, and exploring my creative side.
 
 - 👯 I’m looking to collaborate on open-source projects related to web development. Feel free to reach out to me if you have any interesting project ideas or want to work together on something.
 
