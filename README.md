@@ -9,6 +9,7 @@
 
 - React
 - Node.js
+- ASP.NET
 - AWS
 ---
 ### Stats
