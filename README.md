@@ -5,13 +5,6 @@
 
 - 📫 You can reach me via email at ghanbari.sn@gmail.com.
 
-### Skills
-
-- React
-- Node.js
-- ASP.NET
-- AWS
----
 ### Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=artsyl3)](https://git.io/streak-stats)
